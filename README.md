@@ -1,1 +1,1 @@
-# Neetcode Practise
+# Neetcode Practice
